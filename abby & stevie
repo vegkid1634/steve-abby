@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Maya & Poebes kids 🐾</title>
+  <title>Maya & Phoebe's kids 🐾</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <style>
@@ -106,7 +106,7 @@
 <!-- Photo Grid -->
 <div class="grid">
   <img src="abby.jpg" onclick="openModal(this, 'Abby – I’m from Pennsylvania 🏡')">
-  <img src="stevie.jpg" onclick="openModal(this, 'Stevie – I love springs 🌸')">
+  <img src="stevie.jpg" onclick="openModal(this, 'Stevie – I love my Mommys 🌸')">
   <img src="abby.jpg" onclick="openModal(this, 'Abby chilling like always 😌')">
   <img src="stevie.jpg" onclick="openModal(this, 'Stevie judging you 👀')">
   <img src="abby.jpg" onclick="openModal(this, 'Professional napper 💤')">
